@@ -1,3 +1,3 @@
 # USA votes reference guide
 
-https://caseybriggs.github.io/usavotes-handbook/
+https://caseybriggs.github.io/usavotes-reference/
